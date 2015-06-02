@@ -1,0 +1,21 @@
+{
+  "name": "git-release-note",
+  "main": "index.js",
+  "dependencies": {
+    "rx": "2.5.3"
+  },
+  "version": "0.1.0",
+  "description": "Git flow release note generator",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alinz/git-release-note.git"
+  },
+  "keywords": [
+    "git",
+    "flow",
+    "release",
+    "note"
+  ],
+  "author": "Ali Najafizadeh",
+  "license": "MIT"
+}
