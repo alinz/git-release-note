@@ -36,3 +36,5 @@ git flow release finish v1.0.0
 ```
 
 Once that one is done, just run the git-release-note to generate your release note from commits that git flow produces.
+
+NOTE: make sure that you are in a master branch before running git-release-note command.

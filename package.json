@@ -4,7 +4,7 @@
   "dependencies": {
     "rx": "2.5.3"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Git flow release note generator",
   "repository": {
     "type": "git",
@@ -16,6 +16,10 @@
     "release",
     "note"
   ],
+  "bin" : {
+    "git-release-note": "./index.js",
+    "grn" : "./index.js"
+  },
   "author": "Ali Najafizadeh",
   "license": "MIT"
 }
